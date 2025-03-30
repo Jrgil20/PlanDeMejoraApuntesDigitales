@@ -45,6 +45,7 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
   - Crear plantillas estandarizadas para profesores y materias.
   - Integrar el _vault_ de Obsidian con Git para control de versiones.
   - Configurar Git LFS (_Large File Storage_) para gestionar archivos binarios (PDFs, imágenes).
+  - **Documentación**: [[Dia2_2025-03-30]]
 
 
 
