@@ -54,7 +54,7 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
 	1. Visualizar plazos académicos clave (exámenes, entregas).
 	2. Planificar sesiones de estudio diarias/semanales.
 	3. Vincular tareas directamente con apuntes y recursos.
-	
+	- **Documentación**: [[Dia3_2025-03-31]]
 
 ---
 
