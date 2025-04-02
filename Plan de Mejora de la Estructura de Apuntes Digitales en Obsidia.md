@@ -59,16 +59,16 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
 ---
 
 #### **Fase 2: Días 4-7 (Organización Jerárquica)**  
-- **Día 4: Subcarpetas por periodos inscritos**  
-  - **Acción:** Dentro de `/1. 202525`, crear subcarpetas para cada semestre (ej.: "2023-1", "2023-2").  
-  - **Estandarización:** Nombrar carpetas con el formato "AÑO-NÚMERO" (ej.: 2023-2).  
+- **Día 4: Documento De Enlace**
+  - **Acción:** crear una plantilla que sirva como documento de e
+  - **Documentación**:   [[Dia4_2025-04-01]]
 
-- **Día 5: Clasificación por Materia**  
-  - **Acción:** Dentro de `/2. Materias`, crear una subcarpeta por asignatura. Ejemplo:  
+- **Día 5: Planificación de Clases**  
+  - **Acción:** Crear una planificación interna para las clases. Ejemplo:  
     ```  
-    /2. Materias  
-      └── /Matemáticas Avanzadas  
-      └── /Literatura del Siglo XX  
+    Clase 
+      Temas que se veran:
+      Dudas para llevar  
     ```  
   - **Documentación:** Añadir enlace a cada carpeta en la nota "Índice de Materias".  
 
@@ -144,11 +144,6 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
   - **Reflexión:** Las notas duplicadas surgieron por falta de naming conventions.  
   ```  
 
-- **Tabla de Progreso:**  
-  | Día | Tareas Completadas           | Tiempo Invertido | Dificultad (1-5) |  
-  |-----|------------------------------|------------------|------------------|  
-  | 1   | Limpieza inicial             | 45 min           | 3                |  
-  | 2   | Estructura de carpetas       | 30 min           | 2                |  
 
 ---
 
