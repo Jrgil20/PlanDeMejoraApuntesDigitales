@@ -66,14 +66,14 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
 - **Día 5: Planificación de Clases**  
   - **Acción:** Crear una planificación interna para las clases. Ejemplo:  
     ```  
-    Clase 
-      Temas que se veran:
-      Dudas para llevar  
-    ```  
-  - **Documentación:** Añadir enlace a cada carpeta en la nota "Índice de Materias".  
+      ### Temas
+      #### Dudas
+	 ``` 
 
-- **Día 6: Vinculación de Profesores**  
-  - **Acción:** En la carpeta `/3. Profesores`, crear una nota por docente con metadatos:  
+  - **Documentación:**  [[Dia5_2025-04-02]]
+
+- **Día 6: Planificación de Clases**  
+  - **Acción:**Crear una planificación interna para las clases.:  
     ```markdown  
     # Prof. Ana López  
     - **Materias:** [[Matemáticas Avanzadas]]  
