@@ -78,10 +78,11 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
     - **temas:** [[Matemáticas Avanzadas]]  
     -  
     ```  
-  - **Kaizen Tip:** Usar enlaces (`[[ ]]`) para conectar con materias.  
+  - **Documentación:**  [[Dia6_2025-04-03]]
 
 - **Día 7: Temas Clave y Enlaces**  
-  - **Acción:** En `/4. Temas Clave`, crear notas para conceptos recurrentes (ej.: "Teorema de Bayes") y vincularlas a materias y clases.  
+  - **Acción:** Crear pizarras y llevar la clase a un metodo mas visual vincularlas a materias y clases.  
+  - **Documentación:**
 
 ---
 
