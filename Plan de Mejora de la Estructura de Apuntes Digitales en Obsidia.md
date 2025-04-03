@@ -69,15 +69,14 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
       ### Temas
       #### Dudas
 	 ``` 
+- **Documentación:**  [[Dia5_2025-04-02]]
 
-  - **Documentación:**  [[Dia5_2025-04-02]]
-
-- **Día 6: Planificación de Clases**  
-  - **Acción:**Crear una planificación interna para las clases.:  
+- **Día 6: indexar los datos con la plantilla de la meteria**  
+  - **Acción:**instanciar la plantilla en cada materia.:  
     ```markdown  
-    # Prof. Ana López  
-    - **Materias:** [[Matemáticas Avanzadas]]  
-    - **Correo:** ana.lopez@universidad.edu  
+    # materia
+    - **temas:** [[Matemáticas Avanzadas]]  
+    -  
     ```  
   - **Kaizen Tip:** Usar enlaces (`[[ ]]`) para conectar con materias.  
 
