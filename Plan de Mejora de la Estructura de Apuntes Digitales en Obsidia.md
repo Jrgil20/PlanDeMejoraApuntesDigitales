@@ -81,8 +81,8 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
   - **Documentación:**  [[Dia6_2025-04-03]]
 
 - **Día 7: Temas Clave y Enlaces**  
-  - **Acción:** Crear pizarras y llevar la clase a un metodo mas visual vincularlas a materias y clases.  
-  - **Documentación:**
+  - **Acción:** Crear pizarras y llevar la clase a un método mas visual vincularlas a materias y clases.  
+  - **Documentación:[[DiA7_2025-04-04]]**
 
 ---
 
