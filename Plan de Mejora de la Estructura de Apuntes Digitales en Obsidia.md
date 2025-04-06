@@ -82,49 +82,94 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
 
 - **Día 7: Temas Clave y Enlaces**  
   - **Acción:** Crear pizarras y llevar la clase a un método mas visual vincularlas a materias y clases.  
-  - **Documentación:[[DiA7_2025-04-04]]**
+  - **Documentación:** [[DiA7_2025-04-04]]
 
 ---
 
-#### **Fase 3: Días 8-10 (Metadatos y Búsqueda Eficiente)**  
-- **Día 8: Sistema de Etiquetas**  
-  - **Acción:** Implementar etiquetas para clasificar notas. Ejemplo:  
-    ```markdown  
-    ---  
-    tags: [[física/electromagnetismo]], [[semestre-2023-2]]  
-    ---  
-    ```  
-  - **Estandarización:** Usar etiquetas jerárquicas (`#materia/tema`).  
+#### **Fase 3: Días 8-10 (Sistema de Temas y Automatización)**
 
-- **Día 9: Enlaces Masivos**  
-  - **Acción:** En 10 notas antiguas, añadir al menos 2 enlaces internos a otras notas relacionadas (ej.: `[[Teorema de Bayes]]`).  
-
-- **Día 10: Plantillas de Notas**  
-  - **Acción:** Crear una plantilla en `/5. Recursos/Plantillas` con campos básicos:  
-    ```markdown  
-    ---  
-    fecha: {{date}}  
-    materia: [[ ]]  
-    profesor: [[ ]]  
-    temas: #  
-    ---  
-    ```  
-  - **Automatización:** Usar el plugin *Templater* para aplicarla automáticamente.  
+- ### **Día 8: Plantilla de Seguimiento de Temas**
+    
+    - **Objetivo:** Crear sistema centralizado para monitorear avances por materia.
+        
+    - **Acciones:**
+        
+        1. Crear plantilla `/Plantillas/Seguimiento Temas.md`
+            
+        2. Aplicar a 3 materias prioritarias
+            
+        3. Documentar en [[Dia8_2025-04-05]]
+            
+    - **Resultado:** Vista unificada de progreso académico.
+        
+- ### **Día 9: Prompt para Extracción de Temas**
+    
+    - **Objetivo:** Agilizar identificación de contenidos clave.
+        
+    - **Acciones:**
+        
+        1. Desarrollar prompt estándar para análisis de materias
+            
+        2. Probar en 2 asignaturas
+            
+        3. Documentar en [[Prompt Temas - 2025-04-09]]
+            
+    - **Resultado:** Método rápido para mapeo curricular.
+        
+- ### **Día 10: Implementación Masiva y Biblioteca de Prompts**
+    
+    - **Objetivo:** Escalar sistema a todas las materias.
+        
+    - **Acciones:**
+        
+        1. Ejecutar prompt en 5 materias
+            
+        2. Crear `/Sistema/Prompts.md`
+            
+        3. Documentar en [[Automatización - 2025-04-10]]
+            
+    - **Resultado:** Flujo de trabajo 80% más rápido.
+        
 
 ---
 
-#### **Fase 4: Días 11-13 (Automatización y Mantenimiento)**  
-- **Día 11: Backlinks y Contexto**  
-  - **Acción:** Revisar la pestaña "Backlinks" en 15 notas y añadir una frase de contexto donde sea necesario (ej.: "Relacionado con [[Teorema de Bayes]] por su aplicación en estadística").  
+#### **Fase 4: Días 11-13 (Planificación de Proyectos)**
 
-- **Día 12: Búsquedas Guardadas**  
-  - **Acción:** Crear 3 búsquedas guardadas para acceder rápidamente a:  
-    - Notas sin etiquetas: `tag:none`  
-    - Notas de un semestre: `tag:#semestre-2023-2`  
-    - Notas modificadas en la última semana: `file:ctime>=-7d`  
-
-- **Día 13: Revisión de Flujo de Trabajo**  
-  - **Acción:** Usar el plugin *Calendar* para crear notas diarias y vincularlas a las materias correspondientes.  
+- ### **Día 11: Estructura de Proyectos Académicos**
+    
+    - **Objetivo:** Establecer formato para trabajos complejos.
+        
+    - **Acciones:**
+        
+        1. Crear `Plantilla Proyecto.md`
+            
+        2. Configurar hitos y dependencias
+            
+        3. Documentar en [[Proyectos - 2025-04-11]]
+            
+- ### **Día 12: Integración con Calendario**
+    
+    - **Objetivo:** Visualizar cronogramas integrados.
+        
+    - **Acciones:**
+        
+        1. Vincular hitos a fechas clave
+            
+        2. Sincronizar con calendario
+            
+        3. Documentar en [[Calendario - 2025-04-12]]
+            
+- ### **Día 13: Sistema de Revisión**
+    
+    - **Objetivo:** Mantener consistencia.
+        
+    - **Acciones:
+        
+        1. Establecer checklist semanal
+            
+        2. Configurar recordatorios
+            
+        3. Documentar en [[Revisiones - 2025-04-13]]
 
 ---
 
