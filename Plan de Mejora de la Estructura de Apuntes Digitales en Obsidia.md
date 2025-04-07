@@ -112,7 +112,7 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
             
         2. Probar en 2 asignaturas
             
-        3. Documentar en [[Prompt Temas - 2025-04-09]]
+        3. Documentar en [[Dia9_2025-05-06]]
             
     - **Resultado:** Método rápido para mapeo curricular.
         
