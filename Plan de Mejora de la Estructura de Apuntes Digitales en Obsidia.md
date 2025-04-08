@@ -126,7 +126,7 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
             
         2. Crear `/Sistema/Prompts.md`
             
-        3. Documentar en [[Automatización - 2025-04-10]]
+        3. Documentar en [[Dia10_2025-04-07]]
             
     - **Resultado:** Flujo de trabajo 80% más rápido.
         
