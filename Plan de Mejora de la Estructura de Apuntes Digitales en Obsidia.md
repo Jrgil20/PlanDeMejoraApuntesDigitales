@@ -128,48 +128,48 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
             
         3. Documentar en [[Dia10_2025-04-07]]
             
-    - **Resultado:** Flujo de trabajo 80% más rápido.
         
 
 ---
 
-#### **Fase 4: Días 11-13 (Planificación de Proyectos)**
+#### **Fase 4: Días 11-13 (Optimización del Flujo de Estudio)**
 
-- ### **Día 11: Estructura de Proyectos Académicos**
+- ### **Día 11: Sistema de Alertas Académicas**
     
-    - **Objetivo:** Establecer formato para trabajos complejos.
+    - **Objetivo:** Automatizar recordatorios clave
         
     - **Acciones:**
         
-        1. Crear `Plantilla Proyecto.md`
+        1. Configurar recordatorios recurrentes para:
             
-        2. Configurar hitos y dependencias
+            - 📅 Revisiones semanales (viernes 4pm)
+                
+            - 📚 Sesiones de repaso (diarias 7pm)
+                
+            - 🧠 Autoevaluaciones (domingos 10am)
+                
+        2. Vincular cada alerta a su nota correspondiente
             
-        3. Documentar en [[Proyectos - 2025-04-11]]
+        3. Documentar en [[Dia11_2025-04-08]]
             
-- ### **Día 12: Integración con Calendario**
+- ### **Día 12: Conexión de Backlinks**
     
-    - **Objetivo:** Visualizar cronogramas integrados.
+    - **Objetivo:** Establecer relaciones entre conceptos
         
     - **Acciones:**
         
-        1. Vincular hitos a fechas clave
+        1. Revisar 15 notas principales
             
-        2. Sincronizar con calendario
+        2. Añadir contexto a backlinks (ej: "[[Leyes de Newton]] aplicadas en este experimento")
             
-        3. Documentar en [[Calendario - 2025-04-12]]
+        3. Crear mapa conceptual con 5 conexiones clave
             
-- ### **Día 13: Sistema de Revisión**
+        4. Documentar en [[Dia12_2025-04-09]]
+            
+- ### **Día 13: Plantilla de Seguimiento Semanal**
     
-    - **Objetivo:** Mantener consistencia.
-        
-    - **Acciones:
-        
-        1. Establecer checklist semanal
-            
-        2. Configurar recordatorios
-            
-        3. Documentar en [[Revisiones - 2025-04-13]]
+    - **Objetivo:** Monitorear progreso académico
+        Documentar en [[Dia13_2025-04-10]]
 
 ---
 
