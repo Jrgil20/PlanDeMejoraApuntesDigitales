@@ -152,17 +152,11 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
             
         3. Documentar en [[Dia11_2025-04-08]]
             
-- ### **Día 12: Conexión de Backlinks**
+- ### **Día 12: Tablero de Proyectos y Tareas**
     
-    - **Objetivo:** Establecer relaciones entre conceptos
+    - **Objetivo:** Crear tablero Kanbas para seguimiento 
         
     - **Acciones:**
-        
-        1. Revisar 15 notas principales
-            
-        2. Añadir contexto a backlinks (ej: "[[Leyes de Newton]] aplicadas en este experimento")
-            
-        3. Crear mapa conceptual con 5 conexiones clave
             
         4. Documentar en [[Dia12_2025-04-09]]
             
