@@ -160,9 +160,9 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
             
         4. Documentar en [[Dia12_2025-04-09]]
             
-- ### **Día 13: Plantilla de Seguimiento Semanal**
+- ### **Día 13: Documentación del Sistema**
     
-    - **Objetivo:** Monitorear progreso académico
+    - **Objetivo:** Crear `[[Manual del Usuario]]` 
         Documentar en [[Dia13_2025-04-10]]
 
 ---
