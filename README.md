@@ -27,39 +27,39 @@ El plan está dividido en 4 fases principales que abarcan 14 días:
 
 | Día | Fecha | Descripción | Estado | Documentación |
 | --- | ----- | ----------- | ------ | ------------- |
-| 1 | 29/03/2025 | Creación del Vault y Estructura basada en semestres | ✅ | [Ver detalles](Dia1_2025-03-29.md) |
-| 2 | 30/03/2025 | Estructura Básica de Carpetas | ✅ | [Ver detalles](Dia2_2025-03-30.md) |
-| 3 | 31/03/2025 | Sistema integrado de calendario y seguimiento | ✅ | [Ver detalles](Dia3_2025-03-31.md) |
+| 1 | 29/03/2025 | Creación del Vault y Estructura basada en semestres | ✅ | [Ver detalles](dias/Dia1_2025-03-29.md) |
+| 2 | 30/03/2025 | Estructura Básica de Carpetas | ✅ | [Ver detalles](dias/Dia2_2025-03-30.md) |
+| 3 | 31/03/2025 | Sistema integrado de calendario y seguimiento | ✅ | [Ver detalles](dias/Dia3_2025-03-31.md) |
 
 ### Fase 2: Organización Jerárquica (Días 4-7)
 
 | Día | Fecha | Descripción | Estado | Documentación |
 | --- | ----- | ----------- | ------ | ------------- |
-| 4 | 01/04/2025 | Documento De Enlace | ✅ | [Ver detalles](Dia4_2025-04-01.md) |
-| 5 | 02/04/2025 | Planificación de Clases | ✅ | [Ver detalles](Dia5_2025-04-02.md) |
-| 6 | 03/04/2025 | Indexar datos con plantilla de materia | ✅ | [Ver detalles](Dia6_2025-04-03.md) |
-| 7 | 04/04/2025 | Temas Clave y Enlaces | ✅ | [Ver detalles](DiA7_2025-04-04.md) |
+| 4 | 01/04/2025 | Documento De Enlace | ✅ | [Ver detalles](dias/Dia4_2025-04-01.md) |
+| 5 | 02/04/2025 | Planificación de Clases | ✅ | [Ver detalles](dias/Dia5_2025-04-02.md) |
+| 6 | 03/04/2025 | Indexar datos con plantilla de materia | ✅ | [Ver detalles](dias/Dia6_2025-04-03.md) |
+| 7 | 04/04/2025 | Temas Clave y Enlaces | ✅ | [Ver detalles](dias/Dia7_2025-04-04.md) |
 
 ### Fase 3: Sistema de Temas y Automatización (Días 8-10)
 
 | Día | Fecha | Descripción | Estado | Documentación |
 | --- | ----- | ----------- | ------ | ------------- |
-| 8 | 05/04/2025 | Plantilla de Seguimiento de Temas | ✅ | [Ver detalles](Dia8_2025-04-05.md) |
-| 9 | 06/05/2025 | Prompt para Extracción de Temas | ✅ | [Ver detalles](Dia9_2025-05-06.md) |
-| 10 | 07/04/2025 | Implementación Masiva y Biblioteca de Prompts | ✅ | [Ver detalles](Dia10_2025-04-07.md) |
+| 8 | 05/04/2025 | Plantilla de Seguimiento de Temas | ✅ | [Ver detalles](dias/Dia8_2025-04-05.md) |
+| 9 | 06/04/2025 | Prompt para Extracción de Temas | ✅ | [Ver detalles](dias/Dia9_2025-05-06.md) |
+| 10 | 07/04/2025 | Implementación Masiva y Biblioteca de Prompts | ✅ | [Ver detalles](dias/Dia10_2025-04-07.md) |
 
 ### Fase 4: Optimización del Flujo de Estudio (Días 11-14)
 
 | Día | Fecha | Descripción | Estado | Documentación |
 | --- | ----- | ----------- | ------ | ------------- |
-| 11 | 08/04/2025 | Sistema de Alertas Académicas | ✅ | [Ver detalles](Dia11_2025-04-08.md) |
-| 12 | 09/04/2025 | Tablero de Proyectos y Tareas | ✅ | [Ver detalles](Dia12_2025-04-09.md) |
-| 13 | 10/04/2025 | Documentación del Sistema | ✅ | [Ver detalles](Dia13_2025-04-10.md) |
-| 14 | 11/04/2025 | Retrospectiva Kaizen y Sostenibilidad | ✅ | [Ver detalles](Dia14_2025-04-11.md) |
+| 11 | 08/04/2025 | Sistema de Alertas Académicas | ✅ | [Ver detalles](dias/Dia11_2025-04-08.md) |
+| 12 | 09/04/2025 | Tablero de Proyectos y Tareas | ✅ | [Ver detalles](dias/Dia12_2025-04-09.md) |
+| 13 | 10/04/2025 | Documentación del Sistema | ✅ | [Ver detalles](dias/Dia13_2025-04-10.md) |
+| 14 | 11/04/2025 | Retrospectiva Kaizen y Sostenibilidad | ✅ | [Ver detalles](dias/Dia14_2025-04-11.md) |
 
 ## Resultados y Conclusiones
 
-El proyecto ha permitido transformar un sistema caótico de notas desorganizadas en una estructura coherente y funcional siguiendo la filosofía Kaizen de mejoras pequeñas pero consistentes. Los resultados detallados y las conclusiones finales se encuentran en la [documentación del día 14](Dia14_2025-04-11.md).
+El proyecto ha permitido transformar un sistema caótico de notas desorganizadas en una estructura coherente y funcional siguiendo la filosofía Kaizen de mejoras pequeñas pero consistentes. Los resultados detallados y las conclusiones finales se encuentran en la [documentación del día 14](dias/Dia14_2025-04-11.md).
 
 ## Capturas de Pantalla
 
