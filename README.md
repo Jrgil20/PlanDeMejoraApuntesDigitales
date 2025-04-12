@@ -64,9 +64,9 @@ El proyecto ha permitido transformar un sistema caótico de notas desorganizadas
 ## Capturas de Pantalla
 
 <div class="image-gallery">
-  <img src="/assets/images/PruebaDia1.png" alt="Día 1" width="300" />
-  <img src="/assets/images/PruebaDia7.png" alt="Día 7" width="300" />
-  <img src="/assets/images/PruebaDia14.png" alt="Día 14" width="300" />
+  <img src="./assets/images/PruebaDia1.png" alt="Día 1" width="300" />
+  <img src="./assets/images/PruebaDia7.png" alt="Día 7" width="300" />
+  <img src="./assets/images/PruebaDia14.png" alt="Día 14" width="300" />
 </div>
 
 ## Referencias
