@@ -1,3 +1,8 @@
+---
+layout: default
+title: Plan de Mejora - Apuntes Digitales en Obsidian
+---
+
 **Título:**  
 Implementación del Método Kaizen para Organizar Apuntes Académicos en Obsidian: Un Enfoque de 14 Días  
 
