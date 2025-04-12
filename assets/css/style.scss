@@ -1,0 +1,104 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Estilos personalizados para la visualización del proyecto */
+
+/* Contenedor de imágenes */
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.image-gallery img {
+  max-width: 300px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
+}
+
+.image-gallery img:hover {
+  transform: scale(1.05);
+}
+
+/* Mejoras para tablas */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+td, th {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* Estilos para el botón "Ver en GitHub" */
+.github-button {
+  display: inline-block;
+  background-color: #24292e;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 10px 0;
+  transition: background-color 0.3s ease;
+}
+
+.github-button:hover {
+  background-color: #0366d6;
+  text-decoration: none;
+}
+
+/* Mejoras para la navegación entre días */
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+  padding: 10px 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+.navigation a {
+  padding: 5px 10px;
+  background-color: #f4f4f4;
+  border-radius: 3px;
+  text-decoration: none;
+  color: #0366d6;
+}
+
+.navigation a:hover {
+  background-color: #e1e4e8;
+}
+
+/* Estilos para el estado (completado, en progreso, etc.) */
+.status-complete {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.status-pending {
+  color: #f0ad4e;
+  font-weight: bold;
+}
+
+.status-planning {
+  color: #0366d6;
+  font-weight: bold;
+}

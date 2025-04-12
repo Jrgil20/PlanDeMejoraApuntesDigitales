@@ -1,0 +1,13 @@
+theme: jekyll-theme-cayman
+title: Plan de Mejora de Apuntes Digitales
+description: Implementación del Método Kaizen para Organizar Apuntes Académicos en Obsidian
+show_downloads: true
+github:
+  repository_url: https://github.com/Jrgil20/PlanDeMejoraApuntesDigitales
+  is_project_page: true
+  repository_name: PlanDeMejoraApuntesDigitales
+  owner_name: Jrgil20
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
