@@ -3,7 +3,7 @@ Implementación del Método Kaizen para Organizar Apuntes Académicos en Obsidia
 
 **Autor:**  
 Jesus Rodolfo Gil Farias
-[Fecha]  
+[12 de abril de 2025]  
 
 ---
 
@@ -38,30 +38,30 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
   - **Acción:** Crear un *vault* nuevo en Obsidian titulado "UCAB".  
   - Establecer carpetas principales por semestre:**  
     - 1. Mover materias a sus semestres correspondientes 
-  - **Documentación:**  [[Dia1_2025-03-29]]
+  - **Documentación:**  [Día 1 - 29/03/2025](Dia1_2025-03-29.md)
 
 - **Día 2: Estructura Básica de Carpetas**  
   - **Acción:** Crear carpetas principales en el vault:  
   - Crear plantillas estandarizadas para profesores y materias.
-  - Integrar el _vault_ de Obsidian con Git para control de versiones.
+  - Integrar el _vault_ de Obsidian con Git para control de versiones.
   - Configurar Git LFS (_Large File Storage_) para gestionar archivos binarios (PDFs, imágenes).
-  - **Documentación**: [[Dia2_2025-03-30]]
+  - **Documentación**: [Día 2 - 30/03/2025](Dia2_2025-03-30.md)
 
 
 
-- **Día 3: Crear un **sistema integrado de calendario y seguimiento de tareas** en Obsidian que permita:
+- **Día 3: Crear un **sistema integrado de calendario y seguimiento de tareas** en Obsidian que permita:
 
 	1. Visualizar plazos académicos clave (exámenes, entregas).
 	2. Planificar sesiones de estudio diarias/semanales.
 	3. Vincular tareas directamente con apuntes y recursos.
-	- **Documentación**: [[Dia3_2025-03-31]]
+	- **Documentación**: [Día 3 - 31/03/2025](Dia3_2025-03-31.md)
 
 ---
 
 #### **Fase 2: Días 4-7 (Organización Jerárquica)**  
 - **Día 4: Documento De Enlace**
   - **Acción:** crear una plantilla que sirva como documento de e
-  - **Documentación**:   [[Dia4_2025-04-01]]
+  - **Documentación**: [Día 4 - 01/04/2025](Dia4_2025-04-01.md)
 
 - **Día 5: Planificación de Clases**  
   - **Acción:** Crear una planificación interna para las clases. Ejemplo:  
@@ -69,7 +69,7 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
       ### Temas
       #### Dudas
 	 ``` 
-- **Documentación:**  [[Dia5_2025-04-02]]
+- **Documentación:** [Día 5 - 02/04/2025](Dia5_2025-04-02.md)
 
 - **Día 6: indexar los datos con la plantilla de la meteria**  
   - **Acción:**instanciar la plantilla en cada materia.:  
@@ -78,11 +78,11 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
     - **temas:** [[Matemáticas Avanzadas]]  
     -  
     ```  
-  - **Documentación:**  [[Dia6_2025-04-03]]
+  - **Documentación:** [Día 6 - 03/04/2025](Dia6_2025-04-03.md)
 
 - **Día 7: Temas Clave y Enlaces**  
   - **Acción:** Crear pizarras y llevar la clase a un método mas visual vincularlas a materias y clases.  
-  - **Documentación:** [[DiA7_2025-04-04]]
+  - **Documentación:** [Día 7 - 04/04/2025](DiA7_2025-04-04.md)
 
 ---
 
@@ -90,21 +90,21 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
 
 - ### **Día 8: Plantilla de Seguimiento de Temas**
     
-    - **Objetivo:** Crear sistema centralizado para monitorear avances por materia.
+    - **Objetivo:** Crear sistema centralizado para monitorear avances por materia.
         
     - **Acciones:**
         
-        1. Crear plantilla `/Plantillas/Seguimiento Temas.md`
+        1. Crear plantilla `/Plantillas/Seguimiento Temas.md`
             
         2. Aplicar a 3 materias prioritarias
             
-        3. Documentar en [[Dia8_2025-04-05]]
+        3. Documentar en [Día 8 - 05/04/2025](Dia8_2025-04-05.md)
             
-    - **Resultado:** Vista unificada de progreso académico.
+    - **Resultado:** Vista unificada de progreso académico.
         
 - ### **Día 9: Prompt para Extracción de Temas**
     
-    - **Objetivo:** Agilizar identificación de contenidos clave.
+    - **Objetivo:** Agilizar identificación de contenidos clave.
         
     - **Acciones:**
         
@@ -112,21 +112,21 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
             
         2. Probar en 2 asignaturas
             
-        3. Documentar en [[Dia9_2025-05-06]]
+        3. Documentar en [Día 9 - 06/04/2025](Dia9_2025-05-06.md)
             
-    - **Resultado:** Método rápido para mapeo curricular.
+    - **Resultado:** Método rápido para mapeo curricular.
         
 - ### **Día 10: Implementación Masiva y Biblioteca de Prompts**
     
-    - **Objetivo:** Escalar sistema a todas las materias.
+    - **Objetivo:** Escalar sistema a todas las materias.
         
     - **Acciones:**
         
         1. Ejecutar prompt en 5 materias
             
-        2. Crear `/Sistema/Prompts.md`
+        2. Crear `/Sistema/Prompts.md`
             
-        3. Documentar en [[Dia10_2025-04-07]]
+        3. Documentar en [Día 10 - 07/04/2025](Dia10_2025-04-07.md)
             
         
 
@@ -136,7 +136,7 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
 
 - ### **Día 11: Sistema de Alertas Académicas**
     
-    - **Objetivo:** Automatizar recordatorios clave
+    - **Objetivo:** Automatizar recordatorios clave
         
     - **Acciones:**
         
@@ -150,20 +150,20 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
                 
         2. Vincular cada alerta a su nota correspondiente
             
-        3. Documentar en [[Dia11_2025-04-08]]
+        3. Documentar en [Día 11 - 08/04/2025](Dia11_2025-04-08.md)
             
 - ### **Día 12: Tablero de Proyectos y Tareas**
     
-    - **Objetivo:** Crear tablero Kanbas para seguimiento 
+    - **Objetivo:** Crear tablero Kanbas para seguimiento 
         
     - **Acciones:**
             
-        4. Documentar en [[Dia12_2025-04-09]]
+        4. Documentar en [Día 12 - 09/04/2025](Dia12_2025-04-09.md)
             
 - ### **Día 13: Documentación del Sistema**
     
-    - **Objetivo:** Crear `[[Manual del Usuario]]` 
-        Documentar en [[Dia13_2025-04-10]]
+    - **Objetivo:** Crear `Manual del Usuario` 
+        Documentar en [Día 13 - 10/04/2025](Dia13_2025-04-10.md)
 
 ---
 
@@ -171,6 +171,7 @@ La falta de estructura en los apuntes digitales genera ineficiencias en la recup
 - **Acción 1:** Comparar métricas iniciales y finales (ej.: tiempo de búsqueda de notas).  
 - **Acción 2:** Crear una nota "Manual de Mantenimiento" con reglas para futuras actualizaciones.  
 - **Acción 3:** Programar revisiones semanales de 15 minutos para evitar desorganización.  
+- **Documentación:** [Día 14 - 11/04/2025](Dia14_2025-04-11.md)
 
 ---
 
