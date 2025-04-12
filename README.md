@@ -1,6 +1,6 @@
 # Plan de Mejora de la Estructura de Apuntes Digitales en Obsidian
 
-[![Ver Plan Detallado](https://img.shields.io/badge/Ver%20Plan%20Detallado-5F8575?style=for-the-badge&logo=obsidian&logoColor=white)](Plan%20de%20Mejora%20de%20la%20Estructura%20de%20Apuntes%20Digitales%20en%20Obsidia.md)
+[![Ver Plan Detallado](https://img.shields.io/badge/Ver%20Plan%20Detallado-5F8575?style=for-the-badge&logo=obsidian&logoColor=white)](PlanDeMejora.md)
 
 ## Acerca del Proyecto
 
